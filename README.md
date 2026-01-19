@@ -163,7 +163,7 @@ Camera-based features work fully on Linux-based systems.
 
 ## 12. Author
 
-Developed by Krishna Yadav  
+Developed by Krishna Yadav and Qaaid Badri      
 Focus: Secure systems, computer vision, applied AI
 
 
