@@ -4,3 +4,20 @@
 /facematch.txt
 /requirements.txt
 /streamlit.txt
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Large ML models
+model1/*.dat
+
+# Face data
+data/registered_faces/*
+!data/registered_faces/.gitkeep
