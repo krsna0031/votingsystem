@@ -163,7 +163,10 @@ Camera-based features work fully on Linux-based systems.
 
 ## 12. Author
 
+
 Developed by Krishna Yadav and Qaaid Badri      
+
+
 Focus: Secure systems, computer vision, applied AI
 
 
@@ -171,6 +174,7 @@ Focus: Secure systems, computer vision, applied AI
 ## 13. License
 
 This project is intended for educational and research purposes.
+<<<<<<< HEAD
 
 
 
@@ -180,3 +184,4 @@ This project is intended for educational and research purposes.
 - ONNX Runtime – Optimized inference engine  
 - OpenCV – Computer vision utilities  
 - Streamlit – Interactive web application framework  
+
