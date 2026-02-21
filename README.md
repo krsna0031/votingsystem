@@ -176,8 +176,7 @@ This project is intended for educational and research purposes.
 
 ## 14. Acknowledgements
 
-This project leverages open-source technologies that enabled efficient and scalable development.
-InsightFace – Face recognition embeddings
-ONNX Runtime – Optimized inference engine
-OpenCV – Computer vision utilities
-Streamlit – Interactive web application framework
+- InsightFace – Face recognition embeddings  
+- ONNX Runtime – Optimized inference engine  
+- OpenCV – Computer vision utilities  
+- Streamlit – Interactive web application framework  
